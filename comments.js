@@ -1,4 +1,4 @@
-//create web server
+// Create web server
 import express from 'express';
 const app = express();
 import { urlencoded, json } from 'body-parser';
